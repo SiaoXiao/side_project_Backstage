@@ -8,7 +8,12 @@
 
 ![This is the demo page](./preview.jpg)
 
-[**demo**](https://side-project-backstage.vercel.app/)
+<h2>
+<a href="https://side-project-backstage.vercel.app/" target="_blank">
+ demo here
+</a>
+</h2>
+
 
 ## 📄 Description
 
