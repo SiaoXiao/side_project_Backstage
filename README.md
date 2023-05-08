@@ -9,7 +9,7 @@
 ![This is the demo page](./preview.jpg)
 
 <h2>
-<a href="https://side-project-backstage.vercel.app/" target="_blank">
+<a href="https://side-project-backstage.vercel.app/">
  demo here
 </a>
 </h2>
