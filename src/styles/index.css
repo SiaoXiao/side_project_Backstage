@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import 'base';
+@import 'components';
+@import 'form';
+@import 'notifications';
+@import 'paginator';
+@import 'tags';

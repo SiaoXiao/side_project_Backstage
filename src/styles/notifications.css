@@ -1,0 +1,43 @@
+.vue-notification-group {
+    @apply mt-4
+}
+
+.notifications-icon {
+    @apply w-8 h-8
+}
+
+.notifications-default {
+    .notifications-inner {
+        @apply border-violet-500
+    }
+    .notifications-icon {
+        @apply text-violet-500
+    }
+}
+
+.notifications-success {
+    .notifications-inner {
+        @apply border-green-500
+    }
+    .notifications-icon {
+        @apply text-green-500
+    }
+}
+
+.notifications-warn {
+    .notifications-inner {
+        @apply border-yellow-500
+    }
+    .notifications-icon {
+        @apply text-yellow-500
+    }
+}
+
+.notifications-error {
+    .notifications-inner {
+        @apply border-red-500
+    }
+    .notifications-icon {
+        @apply text-red-500
+    }
+}
