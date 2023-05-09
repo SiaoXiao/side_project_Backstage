@@ -17,16 +17,15 @@
 
 ## 📄 Description
 
-This project uses Vite as the build tool, Vue3 as the front-end framework, and TailwindCSS as the CSS framework to implement a basic to-do list application. Users can easily manage their to-do items through this application, such as adding, deleting, and marking them as complete.
+This project uses Vite as the build tool, Vue3 as the front-end framework, and TailwindCSS as the CSS framework to create a simple admin dashboard application. Through this project, developers can learn how to use Vue3 and TailwindCSS to quickly build web applications with admin management features.
 
 
 ## 📋 Project Structure
 
-1. Add to-do items: Users can enter the content of the to-do item in the input box, and press the Enter key or click the Add button to add a new to-do item.
-2. Delete to-do items: Users can click the delete button next to a to-do item to remove it from the list.
-3. Mark as complete: Users can click the checkbox in front of a to-do item to mark it as complete or incomplete.
-4. Filter to-do items: Users can choose to view all to-do items, only view incomplete to-do items, or only view completed to-do items.
-5. Clear completed items: Users can click the Clear button to remove all completed to-do items with one click.
+1. Login page: Provides a username and password input for implementing the login function to the admin dashboard.
+2. Sidebar navigation: Includes quick navigation to various functional modules, such as user management, data analysis, settings, etc.
+3. Header: Displays the current username and provides a logout function.
+4. Content area: Showcases the content of various functional modules and provides corresponding operations as needed.
 
 ## 🚀 Features
 
